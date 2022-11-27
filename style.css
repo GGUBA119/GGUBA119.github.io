@@ -1,0 +1,49 @@
+.indo {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  background-color: rgb(104, 121, 218);
+}
+.kim {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  background-color: rgb(179, 148, 185);
+}
+.su {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  background-color: rgb(218, 139, 66);
+}
+.an {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  background-color: rgb(128, 190, 123);
+}
+.lee {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  background-color: rgb(230, 241, 75);
+}
+img {
+  width: 25px;
+}
+.country {
+  font-size: 12px;
+}
+
+td {
+  font-size: 12px;
+  align-items: center;
+  text-align: center;
+}
+th {
+  font-size: 12px;
+  align-items: center;
+}
+p {
+  margin: 0;
+}
